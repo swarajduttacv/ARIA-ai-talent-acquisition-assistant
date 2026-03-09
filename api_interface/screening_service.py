@@ -1,3 +1,8 @@
+import sys
+import os
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
+
 from preprocessing.resume_parser import load_resumes_from_folder
 from preprocessing.jd_parser import parse_job_description
 from embeddings.embedding_generator import EmbeddingGenerator

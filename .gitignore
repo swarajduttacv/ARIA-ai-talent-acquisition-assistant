@@ -23,3 +23,10 @@ Thumbs.db
 
 # Environment variables
 .env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Gemini agent files
+.gemini/

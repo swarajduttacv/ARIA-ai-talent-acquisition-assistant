@@ -1,13 +1,4 @@
 import chromadb
-from chromadb.config import Settings
-
-
-class ChromaStore:
-    """
-    Handles storing and querying embeddings using ChromaDB.
-    """
-
-import chromadb
 
 
 class ChromaStore:
