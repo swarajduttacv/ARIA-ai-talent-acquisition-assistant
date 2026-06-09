@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="400" alt="aria banner" src="./assets/banner.png" />
+<img width="1200" height="400" alt="aria banner" src="./assets/banner_aria_17809874539501.png" />
 
 # aria — ai recruitment intelligence assistant
 
