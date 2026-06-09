@@ -1,4 +1,16 @@
+<div align="center">
+<img width="1200" height="400" alt="aria banner" src="./assets/banner.png" />
+
 # aria — ai recruitment intelligence assistant
+
+**end-to-end ai-powered hiring pipeline — resume parsing, ranking, chatbot interviews, scoring**
+
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![Gemini](https://img.shields.io/badge/Gemini_AI-powered-4285F4?logo=google&logoColor=white)](https://ai.google.dev)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+</div>
 
 full-stack ai-powered recruitment platform that handles the hiring pipeline end-to-end: resume parsing, semantic candidate ranking, ai chatbot interviews, automated scoring, and interview scheduling — all in one system.
 
